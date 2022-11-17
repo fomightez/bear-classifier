@@ -3,10 +3,12 @@ channels:
   - fastai
   - pytorch
   - fastchan
+  - conda-forge
   - defaults
 dependencies:
   - fastai
   - fastbook
+  - sentencepiece
   - pillow
   - ipywidgets
   - pip
