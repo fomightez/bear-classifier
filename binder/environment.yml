@@ -1,0 +1,13 @@
+name: fastai2
+channels:
+  - fastai
+  - pytorch
+  - fastchan
+  - defaults
+dependencies:
+  - fastai
+  - fastbook
+  - pillow
+  - ipywidgets
+  - pip:
+    - rich
