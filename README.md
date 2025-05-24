@@ -1,6 +1,6 @@
 # bears
 
-(Don't sync!!! I tried the updated notebook with altered file upload the source of my fork had and it didn't work. This one does work May 2025 via MyBInder sessions. Worked great on a screen capted of a Teddy bear image I had saved. The only thing I see is that after it makes the prediction, some image it would return goes to Log Console. Not a big issue and comes from fastai, and so I'm not touching.)
+(Don't sync!!! I tried the updated notebook with altered file upload the source of my fork had and it didn't work. This one does work May 2025 via MyBInder sessions. Worked great on a screen capted of a Teddy bear image I had saved. The only thing I see is that after it makes the prediction, some image it would return goes to Log Console. Not a big issue and comes from fastai, and so I'm not touching. See [my comment here](https://stackoverflow.com/questions/79636282/build-gui-inside-jupyter-notebook/79636335#comment140455844_79636335).)
 
 Direct to Voila:
 
