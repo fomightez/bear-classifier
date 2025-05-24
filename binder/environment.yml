@@ -4,7 +4,6 @@ channels:
   - pytorch
   - fastchan
   - conda-forge
-  - defaults
 dependencies:
   - fastai
   - fastbook
